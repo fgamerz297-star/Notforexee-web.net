@@ -1,0 +1,6 @@
+{
+  "name": "NoTforexee | Official Minecraft Gaming & YouTube Community",
+  "description": "Official gaming hub for Minecraft content creator NoTforexee. Watch YouTube series, explore Minecraft survival and SMP zones, check streams, and join the Discord.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
